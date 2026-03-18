@@ -4,7 +4,7 @@ echo "Stopping VASD..."
 /opt/quest/bin/vastool stop
 
 echo "Uninstalling VASD..."
-rpm -e vasd
+rpm -e vasclnt
 
 echo "Installing SSSD..."
 yum install -y sssd
