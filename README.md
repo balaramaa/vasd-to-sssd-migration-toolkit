@@ -1,2 +1,4 @@
 # vasd-to-sssd-migration-toolkit
-This is for vasd to sssd migration
+"Migrated 3000+ servers"
+"Saved $800K anually"
+"Reduced dependency on proprietary tools"
